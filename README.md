@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ariawyh
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently new to the opencource community
 - 😊 Make progress every day
 <!---
 ariawyh/ariawyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
